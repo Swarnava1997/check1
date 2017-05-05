@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<title> This is the title sucker! </title>
+  <style type="text/css">
+    form {font-weight: bold;}
+    #select { border: 3px solid blue;}
+  </style>
+</head>
+
+<body>
+
+<form>
+   Username: <input type="text" name="username" />
+</form>
+<p id="select">Select What you want:</p>
+<form>
+   <br/>
+   Bacon <input type="radio" name=" food" value="bacon" />
+   Ham <input type="radio" name=" food" value="ham" />
+   Tuna <input type="radio" name=" food" value="tuna" />
+   None of all  <input type="radio" name=" food" value="none" />
+
+<br/>
+   <br/>
+   Bacon <input type="checkbox" name=" food" value="bacon" />
+   Ham <input type="checkbox" name=" food" value="ham" />
+   Tuna <input type="checkbox" name=" food" value="tuna" />
+   None of all  <input type="checkbox" name=" food" value="none" />
+</form>
+<h1>Best Website Ever!</h1>
+<p>This is my paragraph.</p>
+<hr />
+
+<h2>This is the 2nd header.</h2>
+<p>This is the 2nd paragraph. This is the line break.</p>
+
+<!--  comments -->
+
+<a href="http://facebook.com">Facebook</a> 
+<br /> <a href="http://google.com">Google</a>
+<br /> <a href="http://facebook.com/swarnavaperfectionist.saha/">My Facebook Id</a> 
+<br /> <a href="http://facebook.com/swarnadeep/">SWARNADEEP(wrong link)</a> 
+<h3>Link to mail id.</h3>
+<p><a href="mailto=swarnava01ext@gmail.com">Swarnava Email</a></P>
+
+<a href="https://erp.iitkgp.ernet.in/SSOAdministration/login.htm?sessionToken=094E4B7E7FF044BB62EC28D0EB23AA08.worker2&requestedUrl=https://erp.iitkgp.ernet.in/IIT_ERP3/" title="ERP page"><img src="NSS.png" title="ERP page" height="150"/></a>
+<table border="5" width="500">
+  <tr>
+     <td>sawpan</td>
+     <td>arati</td>
+  </tr>
+  <tr>
+     <td>sawarnava</td>
